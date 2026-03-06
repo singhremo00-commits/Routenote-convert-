@@ -1,0 +1,5 @@
+{
+  "name": "RouteNote Distribution Converter",
+  "description": "Professional tool to convert audio to 16-bit/44.1kHz WAV and resize cover art to 3000x3000px for music distribution.",
+  "requestFramePermissions": []
+}
